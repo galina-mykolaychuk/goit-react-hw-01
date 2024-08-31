@@ -1,0 +1,9 @@
+/* FriendList.module.css */
+
+.friendList {
+  display: flex;
+  margin-top: 30px;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+}
